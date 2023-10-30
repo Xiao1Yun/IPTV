@@ -1,10 +1,10 @@
 {
-    "spider": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aabde6a8ab69185b3de13788799f5f53",
+    "spider": "https://github.com/Xiao1Yun/IPTV/raw/main/xiao.jar;md5;aabde6a8ab69185b3de13788799f5f53",
     
     "lives": [{
             "name": "live",
             "type": 0,
-            "url": "https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+            "url": "https://github.com/Xiao1Yun/IPTV/raw/33363bb4c20046034b89b3907e58557220c43234/XYTV.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
