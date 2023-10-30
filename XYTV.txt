@@ -1,3 +1,7 @@
+中央频道,#genre#
+CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
+
 广东,#genre#
 广东珠江台,https://php.17186.eu.org/gdtv/gdzj.m3u8
 广东体育台,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
@@ -9,3 +13,4 @@
 
 澳港台,#genre#
 翡翠台,https://pull-f5-spe.ixigua.com/yeslivetv.com/626081092-615457614/index.m3u8
+凤凰中文台，http://210.210.155.37/uq2663/h/h157/index2.m3u8
