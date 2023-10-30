@@ -1,0 +1,16 @@
+{
+    "spider": "http://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;aabde6a8ab69185b3de13788799f5f53",
+    
+    "lives": [{
+            "name": "live",
+            "type": 0,
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
+            "playerType": 1,
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }
+    ],
+    "flags": ["youku", "优酷", "优 酷", "优酷视频", "qq", "腾讯", "腾 讯", "腾讯视频", "iqiyi", "qiyi", "奇艺", "爱奇艺", "爱 奇 艺", "m1905", "xigua", "letv", "leshi", "乐视", "乐 视", "sohu", "搜狐", "搜 狐", "搜狐视频", "tudou", "pptv", "mgtv", "芒果", "imgo", "芒果TV", "芒 果 T V", "bilibili", "哔 哩", "哔 哩 哔 哩"],
+    "ads": ["wan.51img1.com", "iqiyi.hbuioo.com", "vip.ffzyad.com", "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"]
+}
