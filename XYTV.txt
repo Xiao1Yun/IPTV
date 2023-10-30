@@ -45,7 +45,7 @@ CCTV-17,http://49.7.69.235/tlivectfree-cdn.ysp.cctv.cn/ysp/2000204203.m3u8
 新疆卫视,http://49.7.69.235/tlivectfree-cdn.ysp.cctv.cn/ysp/2019927403.m3u8
 海南卫视,http://49.7.69.235/tlivectfree-cdn.ysp.cctv.cn/ysp/2000291503.m3u8
 
-风云频道
+风云频道,#genre#
 兵器科技,http://49.7.69.235/tlivectfree-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
 第一剧场,http://49.7.69.235/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514403.m3u8
 怀旧剧场,http://49.7.69.235/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
