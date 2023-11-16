@@ -6,6 +6,10 @@ CCTV6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3
 广东,#genre#
 广东珠江台,https://php.17186.eu.org/gdtv/gdzj.m3u8
 广东体育台,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
+广东体育台,http://gxdl-lhs.8866.org:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+广东体育台,http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
+
 
 澳港台,#genre#
+翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
